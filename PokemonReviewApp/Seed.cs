@@ -94,7 +94,7 @@ namespace PokemonReviewApp
                                 Reviewer = new Reviewer(){ FirstName = "Teddy", LastName = "Smith" } },
                                 new Review { Title="Veasaur",Text = "Venasuar is the best a killing rocks", Rating = 5,
                                 Reviewer = new Reviewer(){ FirstName = "Taylor", LastName = "Jones" } },
-                                new Review { Title="Veasaur",Text = "Venasuar, Venasuar, Venasuar", Rating = 1,
+                                new Review { Title="Veasaur",Text = "Venasuar, Venasuar, Venasuar", Rating = 2,
                                 Reviewer = new Reviewer(){ FirstName = "Jessica", LastName = "McGregor" } },
                             }
                         },
